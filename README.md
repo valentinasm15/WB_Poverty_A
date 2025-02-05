@@ -1,4 +1,4 @@
-# Economic-Insecurity-GNQ
+# Economic-I.
 
 #### Adjust parameters from master.do and run project 
 #### Parameters and outputs are exported to a excel file 
